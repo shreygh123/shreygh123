@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
+- 🤔 &nbsp; Learning new technologies.
 - 🎓 &nbsp; Studying Information Technology in Government College of Engineering Amravati.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -32,8 +32,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreygh123&theme=buefy&show_icons=true" />
+<a href="https://github.com/shreygh123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreygh123&theme=buefy&layout=compact" />
 </a>
 
